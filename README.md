@@ -224,7 +224,3 @@ app.listen(8080, () => {
 - `path` module provides a way of working with directories and file paths.
 - `var path = require('path');`
 - `static` are the assests that server would not need to change. Therefore all the assests and resources that we do by ourself in `node` `express` will handle it.
-
-#### Express All Static
-
-=
